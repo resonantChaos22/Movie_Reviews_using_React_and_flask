@@ -15,3 +15,12 @@ After the server is running, (ie no errors), go back in the folder and run the f
 Then go to the site given as output to see the application
 
 !["output"](images/1.png)
+
+
+# Functioning
+
+Enter the movie title and rate it and press submit, the data will be stored in a database and then the page will be rerendered
+
+!['output'](images/3.png)
+
+!['output'](images/4.png)

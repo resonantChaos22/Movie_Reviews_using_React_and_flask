@@ -14,3 +14,4 @@ After the server is running, (ie no errors), go back in the folder and run the f
 
 Then go to the site given as output to see the application
 
+!["output"](images/1.png)

@@ -1,0 +1,11 @@
+1.> npm install semantic-ui-react to get cool stuffs like rating.
+2.> onRate={(_, data) => console.log(data.rating)} this is how we get value from rating onRat3e and _, data
+3.> This is how we post
+        const response = await fetch('http://localhost:5000/add_movies',{
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({title, rating})
+    })
+4.> 
